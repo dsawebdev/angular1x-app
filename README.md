@@ -3,6 +3,4 @@
 
 # angular1x-app
 
-#working with angular.js 1x building a simple address book app
-#need to add controllers and directives to make content even more dynamic and cleaner
-#could spend a bit more time on styling and some search field functionality 
+#Working with angular.js 1x building a simple address book app.Ideal would be to add controllers and directives to make content even more dynamic and cleaner. I could also spend a bit more time on styling and some search field functionality 
