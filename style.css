@@ -1,0 +1,12 @@
+.container{
+  width: 100%;
+}
+
+.tableStyle{
+  width: 100%;
+  height: 50vh;
+  overflow: scroll;
+}
+.cardStyle{
+  width: 100%;
+}
